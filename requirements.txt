@@ -14,11 +14,11 @@ py-tgcalls==0.9.7
 pykeyboard
 pyrogram==1.4.16
 python-dotenv
-pyyaml==5.3.1
+pyyaml==6.0.2
 requests
 speedtest-cli
 spotipy
 tgcrypto
 youtube-search
-youtube-search-python
+youtube-search-python==1.6.6
 git+https://github.com/yt-dlp/yt-dlp.git
