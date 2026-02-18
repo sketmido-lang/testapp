@@ -1,3 +1,8 @@
+# MongoDB
+pymongo==4.5.0
+motor==3.3.2
+
+# باقي المكتبات زي ما هي
 aiofiles
 aiohttp
 asyncio
@@ -7,7 +12,6 @@ gitpython
 hachoir
 heroku3
 lyricsgenius
-motor==3.0.0
 pillow==11.2.1
 psutil
 py-tgcalls==0.9.7
